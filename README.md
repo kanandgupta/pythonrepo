@@ -1,2 +1,2 @@
 # pythonrepo
-Python program
+This is my first repository on Gitlab
