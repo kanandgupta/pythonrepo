@@ -1,5 +1,6 @@
 a=10 
 b=12
-print a+b
+c=30
+print a+b+c
 
 print "hello"
